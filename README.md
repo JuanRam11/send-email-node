@@ -4,7 +4,7 @@ this is for sending email with npm package Nodemailer.
 
 To use this, first:
 
-# Download and use
+## Download and use
 
 1. Git clone this repository (don't forget the . at the end of the clone)
 2. Open terminal on VS Code or Gitbash on the route you did the clone
